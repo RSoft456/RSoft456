@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RSoft456
-- 👀 I’m interested in Application development
+- 👀 I’m interested in Mobile Application development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on projects that are made using JAVA or DART
 - 📫 How to reach me? ramshamehmood456@gmail.com
